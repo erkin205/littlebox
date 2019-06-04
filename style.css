@@ -1,0 +1,70 @@
+body{
+	font-family: arial;
+}
+.center{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header{
+	width: 100px;
+}
+	.logo{
+		border-radius: 50%;
+		width: 100px
+	}
+.banner{
+	height: 400px;
+	background-color: blue;
+}
+.banner_h2{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 50px;
+}
+.veg_block{
+	height: 400px;
+	width: 300px;
+	background-image: url(photo1.jpg);
+	background-size: 100% 100%;
+}
+.english_block{
+	height: 400px;
+	width: 600px;
+	background-image: url(photo2.jpg);
+	background-size: 100% 100%;
+}
+.eco_block{
+ 	height: 400px;
+ 	width: 700px;
+	background-image:url(eco.jpg);
+	background-size: 100% 100%;
+
+}
+.history{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.menu{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: grey;
+}
+.gallery{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: grey;
+}
+.footer{
+	height: 200px;
+	background-image: 
+}
+.flex{
+	display: flex;
+}
+.history_img{
+	width: 500px;
+	margin-right: 50px;
+	border-radius: 5px;
+}
